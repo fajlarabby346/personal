@@ -1,0 +1,74 @@
+body{
+	background:#1C1E33;
+}
+.login_wrapper{
+	background:#25273E;
+	padding:20px 20px 20px 20px;
+}
+.log_in{
+	font-weight:bold;
+	font-size: 35px;
+}
+.cust{
+    position: absolute;
+    margin-top: 5px;
+    width: 44px;
+    margin-left: 9px;
+    height: 36px;
+    color: #9397A2;
+    padding-top: 8px;
+}
+#email{
+	border:1px solid #EE3A57;
+	background:#1C1E33;
+}
+#pwd{
+	border:1px solid #EE3A57;
+	background:#1C1E33;
+}
+
+input[type="email"],input[type="password"]{
+    margin-bottom: 20px;
+    font-size: 19px;
+    border: 1px solid #000;
+    padding-left: 30px;
+    border-radius:50px;
+}
+.form-check{
+	color: #9397A2;
+}
+.forgot_password{
+	color:#AB4566;
+}
+button{ 
+    background-color:#F03958 !important;
+    width: 100% !important; 
+    color:white !important;
+    font-weight:bold !important; 
+    cursor: pointer !important;
+    border-radius:20px !important; 
+}
+button:hover{ 
+	transition:0.3s all ease;
+    opacity:0.7; 
+} 
+.backspace{
+	width:200px;
+	height:200px;
+}
+.fa-facebook{
+	background:white;
+	padding:7px 10px 7px 10px;
+}
+.fa-twitter{
+	background:white;
+	padding:7px;
+}
+.fa-google-plus{
+	background:white;
+	padding:7px;
+}
+.fa-instagram{
+	background:white;
+	padding:7px;
+}

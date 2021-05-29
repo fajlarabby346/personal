@@ -1,0 +1,33 @@
+body{
+	background:#1C1E33;
+}
+.middle_bg{
+	background:#25273E;
+	padding:20px 20px;
+}
+.form-control{
+    background-color: #25273e;
+    border: 1px solid #743759;
+    border-radius:20px;
+}
+.privacy{
+	color:#A34467;
+}
+.policy{
+	color:#A34467;
+}
+button.btn{
+    width: 100%;
+    background: #EE3A57;
+    color:#fff;
+    font-weight:bold;
+    font-size:15px;
+    border-radius:20px;
+}
+button.btn:hover{
+	opacity:0.7;
+}
+.backspace{
+	width:150px;
+	height:150px;
+}
